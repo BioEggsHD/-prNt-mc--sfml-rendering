@@ -1,0 +1,5 @@
+/Incl ("inout")
+
+function main: <void, args: {}>:(
+  pass:
+)
